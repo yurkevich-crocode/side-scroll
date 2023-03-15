@@ -13,7 +13,6 @@ main {
   font-size: 64px;
   color: white;
   text-align: center;
-  margin: 0;
 }
 
 .side-scroll__text {
@@ -23,6 +22,7 @@ main {
 
 .side-scroll__wrapper {
   position: relative;
+  margin-bottom: 30px;
 }
 
 .side-scroll__items {
